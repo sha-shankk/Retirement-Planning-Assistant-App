@@ -1,0 +1,12 @@
+ECHO is on.
+# Ignore virtual environment
+venv/
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore cache directories
+__pycache__/
+
+# Ignore IDE specific files (e.g., VS Code)
+.vscode/
